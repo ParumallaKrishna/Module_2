@@ -28,7 +28,7 @@ Output 2:
     11*/
 
 
-package com.scaler.module_2.assignments;
+package com.scaler.module_2.assignments.intro.ps;
 
 public class MakeItJucie {
     public int solve(int A, int B) {

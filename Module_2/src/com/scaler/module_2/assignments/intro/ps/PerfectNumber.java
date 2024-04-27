@@ -1,4 +1,4 @@
-package com.scaler.module_2.assignments;
+package com.scaler.module_2.assignments.intro.ps;
 
 /*Problem Description
 You are given an integer A. You have to tell whether it is a perfect number or not.

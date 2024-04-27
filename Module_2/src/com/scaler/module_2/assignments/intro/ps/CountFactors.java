@@ -1,4 +1,4 @@
-package com.scaler.module_2.assignments;
+package com.scaler.module_2.assignments.intro.ps;
 
 /* Problem Description
 Given an integer A, you need to find the count of it's factors.

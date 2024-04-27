@@ -17,7 +17,7 @@ Output 1:
 Output 2:
 0
 */
-package com.scaler.module_2.assignments;
+package com.scaler.module_2.assignments.intro.ps;
 public class CountOfPrimes {
     public int solve(int A) {
         //if(A<=1){return 0;}
